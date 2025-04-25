@@ -6,7 +6,7 @@ html {
   }
 
 .header{
-    background-color: #465B75;
+    background-color: #465B75; /* esto hace que cambie el color del header*/
     padding-top: 2rem 
 }
 .contenedor{
